@@ -2,6 +2,7 @@
     {
         "id":1,
         "name":"Capricciosa",
+        "image":"http://www.sugardale.com/sites/default/files/stuffed%20crust%20pizza.jpg",
         "ingredients": [
             "tomato sauce",
             "mozzarella",
@@ -13,6 +14,7 @@
     {
         "id":2,
         "name":"Quattro Formaggi",
+        "image":"http://www.sugardale.com/sites/default/files/stuffed%20crust%20pizza.jpg",
         "ingredients": [
             "tomato sauce",
             "mozzarella",
@@ -24,6 +26,7 @@
     {
         "id":3,
         "name":"Napoletana",
+        "image":"http://www.sugardale.com/sites/default/files/stuffed%20crust%20pizza.jpg",
         "ingredients":[
             "tomato sauce",
             "anchovies",
@@ -34,6 +37,7 @@
     {
         "id":4,
         "name":"Margherita",
+        "image":"http://www.sugardale.com/sites/default/files/stuffed%20crust%20pizza.jpg",
         "ingredients":[
             "tomato sauce",
             "mozzarella"
