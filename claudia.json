@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "pizza-fb-chatbot-executor",
+    "name": "pizza-fb-chatbot",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "vlm1kln9ei",
+    "module": "bot"
+  }
+}
