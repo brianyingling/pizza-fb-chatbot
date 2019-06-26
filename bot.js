@@ -14,7 +14,7 @@ const api = botBuilder(message => {
         if (action === 'DETAILS') {
             return pizzaDetails(pizzaId);
         } else if (action === 'ORDER') {
-            return orderPizza(pizzaId);
+            return orderPizza(pizzaId, message.sender);
         }
     }
 

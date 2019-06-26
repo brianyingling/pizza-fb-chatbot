@@ -5,12 +5,14 @@
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "update": "claudia update --cache-api-config apiConfig"
+    "update": "claudia update --cache-api-config apiConfig --no-optional-dependencies"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "claudia-bot-builder": "^4.5.0"
+    "aws-sdk": "^2.483.0",
+    "claudia-bot-builder": "^4.5.0",
+    "uuid": "^3.3.2"
   },
   "devDependencies": {
     "claudia": "^5.5.0"
